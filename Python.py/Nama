@@ -1,0 +1,4 @@
+Nama = input ('Syahrul Aidil:')
+Mata_kuliah = input ('Dasar Pemorograman:')
+
+print ("hallo selamat datang", Nama , ", selamat belajar", Mata_kuliah, "!")
